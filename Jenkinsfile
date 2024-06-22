@@ -18,6 +18,7 @@ stages {
             ng install
             # Build the project
              ng build
+             '''
                 }
             }
         }
