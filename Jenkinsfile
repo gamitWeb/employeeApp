@@ -15,10 +15,8 @@ stages {
             npm --version
             npm install --force
             #Install angular
-            npm install -g @angular/cli@15.2.9
-            angular --version
-            # install ng
-            ng install
+            #npm install -g @angular/cli@15.2.9
+            ng version
             # Build the project
              ng build
              '''
