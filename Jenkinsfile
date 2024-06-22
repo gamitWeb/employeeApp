@@ -19,6 +19,8 @@ stages {
             ng version
             # Build the project
              ng build
+            # Run the project
+            ng serve
              '''
                 }
             }
